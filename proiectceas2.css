@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to right, #e91e63 , blue);
+    
+}
+
+div { display: center;}
+
+#clock {
+	color: #fff;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+	font-size:  115px;
+   font-family: Impact, Helvetica, Verdana;
+   text-align: center
+ 
+	
+     
+}
